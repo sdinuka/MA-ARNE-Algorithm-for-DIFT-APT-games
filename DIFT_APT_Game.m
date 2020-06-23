@@ -30,6 +30,9 @@
 % output three figures (in Figure 3: [Case 1] - ARNE policy, [Case 2]- Uniform policy, [Case 3]- Cut policy
 % Ransomeware_Data.mat :: Data file containing state space of DIFT-APT game extracted from Ransomware system logs
 %
+%
+% Acknowledgement: This work was supported by ONR grant N00014-16-1-2710 P00002 and DARPA TC grant DARPA FA8650-15-C-7556.
+%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clc
