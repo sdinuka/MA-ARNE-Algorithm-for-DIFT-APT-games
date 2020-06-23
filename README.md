@@ -1,6 +1,6 @@
 # MA-ARNE-Algorithm-for-DIFT-APT-games
 
-                  SAMPLE CODE OF MA-ARNE ALGORITHM FOR AVERAGE REWARD Dynamic Information Flow Tracking-Advanced Persistent Threats(DIFT-APT) GAMES
+SAMPLE CODE OF MA-ARNE ALGORITHM FOR AVERAGE REWARD Dynamic Information Flow Tracking-Advanced Persistent Threats(DIFT-APT) GAMES
 
 (*) For detailed explanation of the MA-ARNE ALGORITHM and DIFT-APT GAME MODEL please refer to:
    - paper: "A Multi-Agent Reinforcement Learning Approach for Dynamic Information Flow Tracking Games for Advanced Persistent Threats"
@@ -19,14 +19,13 @@ email: sdinuka@uw.edu
 
 Following files are needed for this code to run:
 
-DIFT_APT_Game.m :: This is the main file you need to run for the simulations
-MA_ARNE.m :: MA-ARNE algorithm implementation for DIFT-APT gamez
-act_choice.m :: Function that choose actions for the players DIFT and APT probabilistically in DIFT-APT game
-find_average_reward.m :: Function that computes avergae reward for the players for a given policy
-obj_evaluate.m :: Function evaluates objective functions (refer to the paper "A Multi-Agent Reinforcement Learning Approach for Dynamic Information Flow Tracking Games for Advanced Persistent Threats" for formal definitions)
-policy_projection.m :: Function projects the policies to probability simplex in MA-ARNE algorithm 
-r_PV_eval.m :: Function computes variable values in obj_evaluate.m
-random_initial_state.m :: Function chooses a random initial state for the DIFT-APT game to improve exploration in MA_ARNE.m
-Experiment_Plots.m :: Function evaluates the performance of algorithm and
-output three figures (in Figure 3: [Case 1] - ARNE policy, [Case 2]- Uniform policy, [Case 3]- Cut policy
-Ransomeware_Data.mat :: Data file containing state space of DIFT-APT game extracted from Ransomware system logs
+(1) DIFT_APT_Game.m :: This is the main file you need to run for the simulations
+(2) MA_ARNE.m :: MA-ARNE algorithm implementation for DIFT-APT gamez
+(3) act_choice.m :: Function that choose actions for the players DIFT and APT probabilistically in DIFT-APT game
+(4) find_average_reward.m :: Function that computes avergae reward for the players for a given policy
+(5) obj_evaluate.m :: Function evaluates objective functions (refer to the paper "A Multi-Agent Reinforcement Learning Approach for Dynamic Information Flow Tracking Games for Advanced Persistent Threats" for formal definitions)
+(6) policy_projection.m :: Function projects the policies to probability simplex in MA-ARNE algorithm 
+(7) r_PV_eval.m :: Function computes variable values in obj_evaluate.m
+(8) random_initial_state.m :: Function chooses a random initial state for the DIFT-APT game to improve exploration in MA_ARNE.m
+(9) Experiment_Plots.m :: Function evaluates the performance of algorithm and output three figures (in Figure 3: [Case 1] - ARNE policy, [Case 2]- Uniform policy, [Case 3]- Cut policy
+(10) Ransomeware_Data.mat :: Data file containing state space of DIFT-APT game extracted from Ransomware system logs
