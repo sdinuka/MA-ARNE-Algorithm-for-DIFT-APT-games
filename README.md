@@ -5,6 +5,7 @@ SAMPLE CODE OF MA-ARNE ALGORITHM FOR AVERAGE REWARD Dynamic Information Flow Tra
 (*) For detailed explanation of the MA-ARNE ALGORITHM and DIFT-APT GAME MODEL please refer to:
    - paper: "A Multi-Agent Reinforcement Learning Approach for Dynamic Information Flow Tracking Games for Advanced Persistent Threats"
    - website: https://adapt.ece.uw.edu/
+   
 (*) You may freely redistribute and use this sample code, with or without modification, provided you include the original copyright notice and use restrictions.
 
 Disclaimer: THE SAMPLE CODE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A 
