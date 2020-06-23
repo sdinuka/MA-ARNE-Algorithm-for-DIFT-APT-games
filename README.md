@@ -1,6 +1,5 @@
 # MA-ARNE-Algorithm-for-DIFT-APT-games
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
                   SAMPLE CODE OF MA-ARNE ALGORITHM FOR AVERAGE REWARD Dynamic Information Flow Tracking-Advanced Persistent Threats(DIFT-APT) GAMES
 
 (*) For detailed explanation of the MA-ARNE ALGORITHM and DIFT-APT GAME MODEL please refer to:
@@ -31,5 +30,3 @@ random_initial_state.m :: Function chooses a random initial state for the DIFT-A
 Experiment_Plots.m :: Function evaluates the performance of algorithm and
 output three figures (in Figure 3: [Case 1] - ARNE policy, [Case 2]- Uniform policy, [Case 3]- Cut policy
 Ransomeware_Data.mat :: Data file containing state space of DIFT-APT game extracted from Ransomware system logs
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
