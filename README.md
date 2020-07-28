@@ -40,4 +40,4 @@ Following files are needed for this code to run:
 
 (10) Ransomeware_Data.mat :: Data file containing state space of DIFT-APT game extracted from Ransomware system logs
 
-Acknowledgement: This work was supported by ONR grant N00014-16-1-2710 P00002, DARPA TC grant DARPA FA8650-15-C-7556 and ARO grant W911NF-16-1-0485.
+Acknowledgement: This work was supported by ONR grant N00014-16-1-2710 P00002, DARPA TC grant DARPA FA8650-15-C-7556, and ARO grant W911NF-16-1-0485.
