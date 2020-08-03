@@ -54,7 +54,7 @@ ArXiv link: https://arxiv.org/pdf/2007.00076.pdf
 
 Website: https://adapt.ece.uw.edu/
 
-[2] Ji, Yang, Sangho Lee, Evan Downing, Weiren Wang, Mattia Fazzini, Taesoo Kim, Alessandro Orso, and Wenke Lee. "Rain: Refinable attack investigation with on-demand inter-process information flow tracking." In Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security, pp. 377-390. 2017.
+[2] Yang Ji, Sangho Lee, Evan Downing, Weiren Wang, Mattia Fazzini, Taesoo Kim, Alessandro Orso, and Wenke Lee. "Rain: Refinable attack investigation with on-demand inter-process information flow tracking." In Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security, pp. 377-390. 2017.
 
 For additional information, contact: Dinuka Sahabandu, email: sdinuka@uw.edu
 
