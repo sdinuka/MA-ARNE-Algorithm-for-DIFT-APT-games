@@ -10,7 +10,7 @@ This code presents the Python (version 3.7.7) implementation of the MA-ARNE algo
 
 •	<b>Python version -</b> 3.7.7
 
-•	<b>Python libraries required -<\b> numpy, scipy.io, copy, statistics, matplotlib.pylab
+•	<b>Python libraries required -</b> numpy, scipy.io, copy, statistics, matplotlib.pylab
 
 •	<b>Function description</b> 
 
