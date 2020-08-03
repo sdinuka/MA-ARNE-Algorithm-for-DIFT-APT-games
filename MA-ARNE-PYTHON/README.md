@@ -18,7 +18,7 @@ This code presents the Python (version 3.7.7) implementation of the MA-ARNE algo
 
 •	<b>Class: Supplementary_Functions.py</b>
         This class implements the following three functions
-	     
+	      
 •	<b>act_choice -</b> Function that chooses actions for the players DIFT and APT probabilistically (for a given policy of DIFT/APT) in DIFT-APT game
 
 •	<b>policy_projection -</b> Function projects the updated policies of DIFT and APT in MA-ARNE algorithm to probability simplex 
