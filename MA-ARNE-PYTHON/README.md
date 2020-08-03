@@ -6,7 +6,7 @@ Dynamic Information Flow Tracking (DIFT) is a defense mechanism that dynamically
 
 This code presents the Python (version 3.7.7) implementation of the MA-ARNE algorithm. The MA-ARNE algorithm is a multiple-time scale stochastic approximation algorithm that learns an equilibrium solution of the DIFT-APT game. MA-ARNE python code contains four classes of functions, Supplementary_Functions, MA-ARNE, Evaluation_Functions and Experiment_plots. Detailed description of the python code is given below. 
 
-•	<b>GitHub link:</b> https://github.com/sdinuka/HSL-algorithm-for-APT-DIFT-game
+•	<b>GitHub link:</b> https://github.com/sdinuka/MA-ARNE-Algorithm-for-DIFT-APT-games/blob/master/MA-ARNE-PYTHON
 
 •	<b>Python version -</b> 3.7.7
 
