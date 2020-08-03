@@ -16,7 +16,7 @@ This code presents the Python (version 3.7.7) implementation of the MA-ARNE algo
 
 •	<b>main.py:</b> Loads the state space of DIFT-APT game (as a .mat file containing a transition matrix) and defines the reward, penalty and cost 		parameters of DIFT-APT game. Execution of "main.py" computes the Nash equilibrium policies in DIFT-APT game using MA-ARNE algorithm and provides 		convergence plots of value functions, average rewards and objective functions. 
 
-•	<b>Class: Supplementary_Functions.py<\b>
+•	<b>Class: Supplementary_Functions.py</b>
         This class implements the following three functions
 	     
 •	<b>act_choice -</b> Function that chooses actions for the players DIFT and APT probabilistically (for a given policy of DIFT/APT) in DIFT-APT game
